@@ -1,19 +1,16 @@
 {
-  "name": "blinko-plugin-demo",
-  "author": "blinko-offical",
-  "url": "https://github.com/blinko-space/blinko-plugin-template",
-  "version": "0.0.4",
+  "name": "blinko-note-editor-colors",
+  "author": "madcativ",
+  "url": "https://github.com/madcativ/blinko-note-editor-colors",
+  "version": "0.0.1",
   "minAppVersion": "0.0.0",
   "displayName": {
-    "default": "Blinko plugin demo",
-    "zh": "Blinko插件示例"
+    "default": "Blinko Note Editor Colors"
   },
   "description": {
-    "default": "This is a blinko plugin demo, you can use it as a template to create your own plugin.",
-    "zh": "这是一个blinko插件示例，你可以使用它作为模板来创建自己的插件。"
+    "default": "A plugin for changing node editor colors. e.g. list item decoration colors."
   },
   "readme": {
-    "default": "README.md",
-    "zh": "README_zh.md"
+    "default": "README.md"
   }
 }
