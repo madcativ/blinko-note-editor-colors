@@ -1,14 +1,14 @@
 {
-  "name": "blinko-note-editor-colors",
+  "name": "blinko-simple-styles",
   "author": "madcativ",
-  "url": "https://github.com/madcativ/blinko-note-editor-colors",
+  "url": "https://github.com/madcativ/blinko-simple-styles",
   "version": "1.0.0",
   "minAppVersion": "0.0.0",
   "displayName": {
-    "default": "Blinko Note Editor Colors"
+    "default": "Blinko Simple Styles"
   },
   "description": {
-    "default": "A plugin for changing node editor colors. e.g. list item decoration colors."
+    "default": "Plugin for Blinko for changing web app's styles and CSS variables."
   },
   "readme": {
     "default": "README.md"
