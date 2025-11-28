@@ -47,7 +47,7 @@ export function Setting(): JSXInternal.Element {
     <div className="max-w-2xl mx-auto p-2 rounded-lg">
       <div className={"mb-6"}>
         <label className="block text-sm font-medium mb-2">
-          Color Variables
+          CSS Variables
           <textarea
             value={JSON.stringify(colorsVars, null, 2)}
             onChange={handleColorVariablesChange}
