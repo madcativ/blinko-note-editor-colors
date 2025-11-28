@@ -31,10 +31,8 @@ Do not include the `--` prefix when defining CSS variables.
 ### Example Styles (CSS)
 
 ```css
-{
-	body : {
-		color : #fff;
-	}
+body {
+	color : #fff;
 }
 ```
 
